@@ -27,8 +27,6 @@ Applications have included
 
 Secondary projects have included developing and backtesting strategies for cryptocurrency trading.
 
-[More information can be found on the projects page](/projects)
-
 <br>
 
 ### Managing Partner
@@ -64,10 +62,11 @@ Oversaw a mix of onshore/offshore teams for each project ranging between
 Realmware Corporation was the maker of a C# based game engine called Visual3D that was used to make 
 training simulations for national defense and private industry.
 
-Generalist developer assigned to the following projects over the course of employment
+Application developer assigned to the following projects over the course of employment
 
 - Development of sample games and reference projects for clients to get started with
 - Development of custom simulations for clients
+- Development of physics engine add-ons
 - Development of documentation &amp; tutorials
 - Support of many public version releases of the Visual3D.NET Game Engine
 - Management of offshore developers
@@ -80,13 +79,18 @@ Generalist developer assigned to the following projects over the course of emplo
 
 ### Competencies
 
-**Data Wrangling:** Finessing messy existing data into formats where meaningful analysis can be performed. Developing new warehousing solutions if needed
+**Data Wrangling:** Finessing messy data into formats where meaningful analysis can be performed. 
+Developing new warehousing solutions when need arises
 
-**Model Development and Deployment:** Development of machine learning models from theoretical principles, validation of models, deployment into production
+**Model Development and Deployment:** Development of machine learning models from theoretical principles and subsequent 
+validation/deployment
 
-**Blockchain Development:** Utilize public or private blockchains in an application stack
+**Blockchain Development:** Utilizing public or private blockchains in an application stack
 
-**Cloud Based Web Apps:** Develop and deploy applications to public clouds using modern ideas on app architecture
+**Cloud Based Web Apps:** Developing and deploying applications to public clouds using modern ideas on app architecture
+
+**Project Management:** Coordinating skilled humans to execute projects using modern PM tools (slack, JIRA, etc.)
+
 
 <br>
 
@@ -121,7 +125,7 @@ Docker, Amazon - EC2, EKS, Lambda, RDS, Gamelift, Sagemaker, Comprehend
 
 **Startup Operations:** Founder level experience in building tech companies
 
-**Recruiting & Team Building:** Hired dozens of resources for roles ranging from development to sales
+**Recruiting & Team Building:** Hired dozens of resources from development to sales
 
 **Offshore Team Management:** 10+ years of experience managing offshore development teams
 

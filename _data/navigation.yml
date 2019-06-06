@@ -3,5 +3,7 @@
 main:
   - title: "Resume"
     url: /resume/
-  - title: "GitHub"
-    url: https://github.com/iamalwaysuncomfortable/
+  - title: "Projects"
+    url: /projects/
+  - title: "Contact"
+    url: /contact/

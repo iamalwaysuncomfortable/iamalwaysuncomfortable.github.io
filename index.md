@@ -8,12 +8,13 @@ permalink:
 ![eyes](images/ezgif-3-48f51aa682f9.gif){:class="img-responsive"}
 
 
+
 ### A Brief Professional History
 Data scientist with serious chops in full stack development.
 
 9 year veteran of the game industry. While there,
 I focused in building back ends and analytics suites for 
-massive Online and Social games wearing both data scientist and production hats. 
+massive online and social games wearing both data scientist and production hats. 
 
 In 2014 I launched a consultancy called Hashsignals that uses modern statistical and machine learning 
 methods to help companies understand and engage their clients. 
@@ -22,6 +23,6 @@ industries such as the game industry. We often partner with very close
 associates to build out full stack software solutions.
 
 ### Skills and Experience
-[My Resume](/resume)
+[Resume](/resume)
 
-[Past Projects and Clients](/projects)
+[Projects](/projects)
