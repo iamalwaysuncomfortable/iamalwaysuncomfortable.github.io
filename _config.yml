@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-theme: jekyll-whiteglass
+remote_theme: yous/whiteglass
 plugins:
 - jekyll-paginate
 - jekyll-sitemap
@@ -23,14 +23,6 @@ paginate_path: /posts/:num/
 paginate: 5
 title: Mike Turner
 
-jekyll-archives:
-  enabled:
-  - categories
-  - tags
-  layout: category_archives
-  permalinks:
-    category: /categories/:name/
-    tag: /tags/:name/
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
