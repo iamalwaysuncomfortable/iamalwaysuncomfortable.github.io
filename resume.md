@@ -24,6 +24,7 @@ Applications have included
 - Recommendation engines for in-game micropurchases and e-commerce products
 - Classification tasks such as automatic lead qualification
 - Pattern discovery in large datasets (discovering types of customers that aren't immediately obvious, etc.)
+- Supervised & Unsupervised NLP tasks
 
 Secondary projects have included developing and backtesting strategies for cryptocurrency trading.
 
@@ -82,8 +83,8 @@ Application developer assigned to the following projects over the course of empl
 **Data Wrangling:** Finessing messy data into formats where meaningful analysis can be performed. 
 Developing new warehousing solutions when need arises
 
-**Model Development and Deployment:** Development of machine learning models from theoretical principles and subsequent 
-validation/deployment
+**Model Development and Deployment:** Development of machine learning models from principled mathematical approaches to subsequent 
+validation/deployment in production
 
 **Blockchain Development:** Utilizing public or private blockchains in an application stack
 
@@ -97,26 +98,28 @@ validation/deployment
 
 ### Stack
 
-**Languages:** Python, Javascript, Lua, R, C#, Java, Solidity
+**Languages:** Python, Javascript, Lua, R, C#, Java, Dart/Flutter, Solidity
 
 **ML/AI Frameworks:** Scikit Learn, Tensorflow, PyTorch, Keras, spaCy, 
 Amazon Comprehend/SageMaker, Google Machine Learning Engine/AutoML Natural Language
 
-**Frontend:** React Native/JS, Flutter, Jekyll, Unity3D, Corona
+**Frontend:** React Native/JS, Flutter, Materalize, Jekyll, Unity3D, Corona
 
 **Testing/Deployment:** Mocha, CircleCI, PyTest, UnitTest, Enzyme, Jest, CircleCI
 
 **Visualization:** Matplotlib, GGplot2, Plotly/Dash
 
-**Databases:** PostgreSQL, MySQL, MongoDB, Bigquery, BigTable, Redis, SQLAlchemy
+**Databases:** PostgreSQL, MySQL, MongoDB, DynamoDB, Bigquery, BigTable, Redis, SQLAlchemy, GraphQL
 
 **Cloud Services:** 
 Docker, Amazon - EC2, EKS, Lambda, RDS, Gamelift, Sagemaker, Comprehend
-| Google - ML Engine, BigQuery, BigTable, AutoML NLP, Compute Engine
+| Google - ML Engine, BigQuery, BigTable, AutoML NLP, Compute Engine, Firebase ML
 
 **Blockchain:** Hyperledger Sawtooth/Indy, Ethereum/Solidity, EOS, MetaMask, Truffle
 
-**Other Tools:** Wireshark, ARC Welder, Pupeteer, BeautifulSoup, Scrapy, git, GraphQL, JIRA, Monday.com
+**Other Tools:** Wireshark, ARC Welder, Pupeteer, BeautifulSoup, Scrapy, git, JIRA, Monday.com
+
+**NLP Tools:** SpaCy, BERT (Torch/Tensorflow), Glove
 
 <br>
 
@@ -125,7 +128,7 @@ Docker, Amazon - EC2, EKS, Lambda, RDS, Gamelift, Sagemaker, Comprehend
 
 **Startup Operations:** Founder level experience in building tech companies
 
-**Recruiting & Team Building:** Hired dozens of resources from development to sales
+**Recruiting & Team Building:** Hired/managed dozens of resources from development to sales
 
 **Offshore Team Management:** 10+ years of experience managing offshore development teams
 
