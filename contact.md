@@ -17,4 +17,4 @@ permalink: /contact/
 
 ![gh]({{site.baseurl}}/images/github.png) [github.com/iamalwaysuncomfortable](https://github.com/iamalwaysuncomfortable)
 
-![li]({{site.baseurl}}/images/linkedin.png) [linkedin.com/in/mike-turner-data](https://linkedin.com/in/mike-turner-data)
+![li]({{site.baseurl}}/images/linkedin.png) Linkedin provides information about you that is otherwise illegal to ask such as your race/age/religion/marital status/etc. HR departments regularly use it as a legal way to discriminate based upon these factors. Please consider deleting your LinkedIN.
