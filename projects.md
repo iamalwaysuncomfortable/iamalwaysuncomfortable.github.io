@@ -14,7 +14,7 @@ Below are a collection of selected projects I've executed
 
 **Client:** Scripd Inc.
 
-![medical_app]({{site.baseurl}}/images/medical.png)
+![medical_app]({{site.baseurl}}/images/medical_compressed.png)
 
 **Years:** 2020
 
