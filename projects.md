@@ -9,6 +9,28 @@ Below are a collection of selected projects I've executed
 
 ## Machine Learning and Analytics
 
+### Natural Language Understanding from Medical Data in Mobile Health App
+----
+
+**Client:** Scripd Inc.
+
+![game]({{site.baseurl}}/images/medical.png)
+
+**Years:** 2020
+
+**Description:**
+
+Created a semi-supervised neural network nodel incorporating a transformer based Named Entity Recognition (NER) model
+that takes text data from a mobile OCR scan of prescription data and automatically classifies
+import medical information on the prescription (such as dosage, frequency of use, quantity, and drug interactions)
+that is incorporated into reminders for patients.
+
+The Model is run on the edge within the app to avoid having to make outbound API calls and is automatically updated
+in the background when a new model is published.
+
+<br>
+
+
 ### In-Game Recommendation Engine
 ----
 
