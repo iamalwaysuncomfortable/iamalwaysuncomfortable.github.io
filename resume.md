@@ -98,14 +98,16 @@ validation/deployment in production
 
 ### Stack
 
-**Languages:** Python, Javascript, Lua, R, C#, Java, Dart/Flutter, Solidity
-
-**ML/AI Frameworks:** Scikit Learn, Tensorflow, PyTorch, Keras, spaCy, 
-Amazon Comprehend/SageMaker, Google Machine Learning Engine/AutoML Natural Language
+**Languages:** Python, Javascript, Lua, R, C#, Java, Dart/Flutter, Solidity, Rust
 
 **Frontend:** React Native/JS, Flutter, Materalize, Jekyll, Unity3D, Corona
 
-**Testing/Deployment:** Mocha, CircleCI, PyTest, UnitTest, Enzyme, Jest, CircleCI
+**ML/AI Frameworks:** Scikit Learn, Tensorflow, PyTorch, Keras, spaCy, Huggingface Transformers,
+Amazon Comprehend/SageMaker, Google Machine Learning Engine/AutoML Natural Language
+
+**NLP Tools:** SpaCy, Huggingface Transformers, Glove, GPT-3 API
+
+**Testing/Deployment:** Mocha, CircleCI, PyTest, UnitTest, Enzyme, Jest, Github Actions
 
 **Visualization:** Matplotlib, GGplot2, Plotly/Dash
 
@@ -118,8 +120,6 @@ Docker, Amazon - EC2, EKS, Lambda, RDS, Gamelift, Sagemaker, Comprehend
 **Blockchain:** Hyperledger Sawtooth/Indy, Ethereum/Solidity, EOS, MetaMask, Truffle
 
 **Other Tools:** Wireshark, ARC Welder, Pupeteer, BeautifulSoup, Scrapy, git, JIRA, Monday.com
-
-**NLP Tools:** SpaCy, BERT (Torch/Tensorflow), Glove
 
 <br>
 
