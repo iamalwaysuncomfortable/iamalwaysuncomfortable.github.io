@@ -123,6 +123,15 @@ Docker, Amazon - EC2, EKS, Lambda, RDS, Gamelift, Sagemaker, Comprehend
 
 <br>
 
+### Mathematical Skills
+
+**Category Theory:** Able to apply category theory to the organization of functional programs, databases and design
+of dev libraries. Everything is fundamentally defined by how it relates to everything else ;).
+
+**Longitudinal Analysis:** Time series data is fundamental for understanding correlations. Performing longitudinal
+analysis prior to machine learning model design helps predictive power & resilience against covariate shift.
+
+**Probabalistic & Differential 
 
 ### Soft Skills
 
