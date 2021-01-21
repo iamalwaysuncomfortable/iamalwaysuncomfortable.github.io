@@ -10,17 +10,29 @@ permalink:
 
 
 ### A Brief Professional History
-Data scientist with serious chops in full stack development.
+**Machine Learning Engineer/Applied Mathematician**
+_Focusing on designing models from principled mathematical foundations and taking them to production_
 
-9 year veteran of the game industry. While there,
-I focused in building back ends and analytics suites for 
-massive online and social games wearing both data scientist and production hats. 
+Veteran of the game industry. 
+I worked on the development and operation of several live MMO and social games 
+wearing both machine learning and software/creative production hats 
+(they go hand in hand in games).
 
-In 2014 I launched a consultancy called Hashsignals that uses modern statistical and machine learning 
-methods to help companies understand and engage their clients. 
-Our key industry verticals have included Paas/Saas companies and creative 
-industries such as the game industry. We often partner with very close 
-associates to build out full stack software solutions.
+I run an individual consultancy called Hashsignals. I help companies understand their 
+problem spaces via statistical techniques such as longitudinal analyses 
+and help them put appropriate machine learning methods into place 
+in compute clouds or on the edge that become core to their products.
+
+I also have a good understanding of cloud architecture & mobile front ends.
+
+Key industry verticals have included Paas/Saas companies and creative 
+industries such as the game industry. 
+
+### Skills & Experience
+[Resume](/resume)
+
+[Projects](/projects)
+
 
 ### Skills and Experience
 [Resume](/resume)
