@@ -33,9 +33,3 @@ industries such as the game industry.
 [Resume](/resume)
 
 [Projects](/projects)
-
-
-### Skills and Experience
-[Resume](/resume)
-
-[Projects](/projects)
