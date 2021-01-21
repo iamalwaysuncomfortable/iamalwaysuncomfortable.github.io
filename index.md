@@ -11,6 +11,7 @@ permalink:
 
 ### A Brief Professional History
 **Machine Learning Engineer/Applied Mathematician**
+
 _Focusing on designing models from principled mathematical foundations and taking them to production_
 
 Veteran of the game industry. 
