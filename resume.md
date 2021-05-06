@@ -46,6 +46,7 @@ Responsible for the following:
 - Developed several libraries for attaching loggly quickly to various programming languages, 3rd party software and libraries
 - Analyzed client-volunteered datasets in order to generate several application-specific test datasets prospective clients could view in order to increase client conversion in various verticals
 
+
 ### Managing Partner
 
 **Company:** [Bitfold Online Games](http://www.bitfold.net/news.shtml)
