@@ -10,14 +10,13 @@ permalink:
 
 
 ### A Brief Professional History
-**Machine Learning Engineer/Applied Mathematician**
+**Machine Learning Engineer / Applied Mathematician**
 
 _Focusing on designing models from principled mathematical foundations and taking them to production_
 
 Veteran of the game industry. 
-I worked on the development and operation of several live MMO and social games 
+I've worked on the development and operation of several live MMO and social games 
 wearing both machine learning and software/creative production hats 
-(they go hand in hand in games).
 
 I run an individual consultancy called Hashsignals. I help companies understand their 
 problem spaces via statistical techniques such as longitudinal analyses 
