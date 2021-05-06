@@ -141,7 +141,7 @@ Amazon Stack (EC2/Lambda/RDS/SQS/ECS/IAM/S3/etc.), Google Stack (Compute/App Eng
 
 **Statistics/Longitudinal Analysis:** Able to apply statistical methods to temporal data to understand patterns and correlations that manifest or change across time
 
-**Other fields:** Linear & Tensor Algebra/Calculus, Differential Equations, Graph Theory, Decision Theory, Measure Theory, Information Theory, Probabalistic & Differential Learning Methods
+**Other fields:** Linear & Tensor Algebra/Calculus, Linear Optimization, Differential Equations, Graph Theory, Decision Theory, Measure Theory, Information Theory, Probabalistic & Differential Learning Methods
 
 ### Soft Skills
 
