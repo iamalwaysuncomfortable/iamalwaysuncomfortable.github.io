@@ -16,7 +16,7 @@ _Focusing on designing models from principled mathematical foundations and takin
 
 Veteran of the game industry. 
 I've worked on the development and operation of several live MMO and social games 
-wearing both machine learning and software/creative production hats 
+wearing both machine learning and software/creative production hats.
 
 I run an individual consultancy called Hashsignals. I help companies understand their 
 problem spaces via statistical techniques such as longitudinal analyses 
