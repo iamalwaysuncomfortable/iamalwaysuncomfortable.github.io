@@ -143,6 +143,7 @@ Amazon Stack (EC2/Lambda/RDS/SQS/ECS/IAM/S3/etc.), Google Stack (Compute/App Eng
 
 **Other fields:** Linear & Tensor Algebra/Calculus, Linear Optimization, Differential Equations, Graph Theory, Decision Theory, Measure Theory, Information Theory, Probabalistic & Differential Learning Methods
 
+
 ### Soft Skills
 
 **Startup Operations:** Founder level experience in building tech companies
