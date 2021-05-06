@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Mike Turner - Data Scientist"
+title: ""
 permalink: /resume/
 ---
 
@@ -8,19 +8,19 @@ permalink: /resume/
 
 -----
 
-### Data Scientist
+### Machine Learning Developer / Analyst
 
 **Company:** [Hashsignals](https://hashsignals.com)
 
-**Dates:** Q1. 2014 - Current
+**Dates:** Q1. 2016 - Current
 
 **Description:**
 
 Consultancy focused on applying modern statistical analysis and machine learning methods to client business problems.
 
-Most client uses-cases are focused on understanding and guiding end-user behavior. 
-Applications have included
+Client uses-cases have focused on understanding and guiding end-user behavior, developing foundational ML automation usign NLP or Image Analysis, and understanding patterns in large datasets/lakes.
 
+Applications have included:
 - Recommendation engines for in-game micropurchases and e-commerce products
 - Classification tasks such as automatic lead qualification
 - Pattern discovery in large datasets (discovering types of customers that aren't immediately obvious, etc.)
@@ -29,6 +29,22 @@ Applications have included
 Secondary projects have included developing and backtesting strategies for cryptocurrency trading.
 
 <br>
+
+### Machine Learning Developer / Analyst
+
+**Company:** [Loggly](https://loggly.com)
+
+**Dates:** Q1. 2014 - Q4. 2015
+
+**Description:**
+
+Loggly desired to automate their inbound business inquiry classification and response to increase inquiries conversion to clients.
+
+Responsible for the following:
+- Running analysis of the existing client base with statistical analyses & unsupervised learning methods to understand existing inquiry to conversion behavior
+- Creating inbound classification systems (including new datasets) which classified clients into several buckets which indicated what approach and how much effort should be taken in converting the client
+- Developed several libraries for attaching loggly quickly to various programming languages, 3rd party software and libraries
+- Analyzed client-volunteered datasets in order to generate several application-specific test datasets prospective clients could view in order to increase client conversion in various verticals
 
 ### Managing Partner
 
@@ -42,13 +58,11 @@ Co-Founder of Bitfold, a game developer focused on MMO and
 Mobile Social Games. Bitfold worked on both original game titles and the games of major clients
 such as Wargaming.net, Playdom (acquired by Disney), and Atari.
 
-Personally worked on 12+ games using varying tech stacks with 
-special focus on designing analytics
-backends. Analytics backends generally included dashboards and 
-microservices that ran a variety of supervised learning models focused on recommending actions to players.
+Personally worked on 12+ games using varying tech stacks with special focus on designing analytics backends. 
+Analytics backends generally included dashboards and microservices that ran a variety of supervised learning models focused on recommending actions to players.
 
 Oversaw a mix of onshore/offshore teams for each project ranging between 
-4-10 people per project.
+4-15 people per project.
 
 <br>
 
@@ -96,42 +110,38 @@ validation/deployment in production
 <br>
 
 
-### Stack
+### Tool Stack
 
-**Languages:** Python, Javascript, Lua, R, C#, Java, Dart/Flutter, Solidity, Rust
+**Languages:** Python, Javascript, Lua, R, C#, Java, Dart/Flutter, Solidity, Julia
 
-**Frontend:** React Native/JS, Flutter, Materalize, Jekyll, Unity3D, Corona
+**Frontend:** React Native/JS, Flutter, Materalize, Jekyll, Unity3D, Unreal, Corona
 
-**ML/AI Frameworks:** Scikit Learn, Tensorflow, PyTorch, Keras, spaCy, Huggingface Transformers,
-Amazon Comprehend/SageMaker, Google Machine Learning Engine/AutoML Natural Language
-
-**NLP Tools:** SpaCy, Huggingface Transformers, Glove, GPT-3 API
+**ML/AI Frameworks:** Scikit Learn, Tensorflow, Spark, PyTorch, Keras, spaCy, Huggingface Transformers,
+Amazon SageMaker, Google AI Platform
 
 **Testing/Deployment:** Mocha, CircleCI, PyTest, UnitTest, Enzyme, Jest, Github Actions
 
 **Visualization:** Matplotlib, GGplot2, Plotly/Dash
 
-**Databases:** PostgreSQL, MySQL, MongoDB, DynamoDB, Bigquery, BigTable, Redis, SQLAlchemy, GraphQL
+**Databases/Caches:** PostgreSQL, MySQL, MongoDB, DynamoDB, Bigquery, BigTable, Redis, GraphQL
 
-**Cloud Services:** 
-Docker, Amazon - EC2, EKS, Lambda, RDS, Gamelift, Sagemaker, Comprehend
-| Google - ML Engine, BigQuery, BigTable, AutoML NLP, Compute Engine, Firebase ML
+**Cloud Infrastructure:** 
+Amazon Stack (EC2/Lambda/RDS/SQS/ECS/IAM/S3/etc.), Google Stack (Compute/App Engine/Firebase/Cloud Functions), Cloudformation, DeployManager
 
-**Blockchain:** Hyperledger Sawtooth/Indy, Ethereum/Solidity, EOS, MetaMask, Truffle
+**Blockchain:** Hyperledger Sawtooth/Indy, Ethereum Ecosystem (Solidity/MetaMask/Truffle/Etc.)
 
-**Other Tools:** Wireshark, ARC Welder, Pupeteer, BeautifulSoup, Scrapy, git, JIRA, Monday.com
+**Other Tools:** Wireshark, Pupeteer, BeautifulSoup, Scrapy, git, JIRA
 
 <br>
 
 ### Mathematical Skills
 
-**Category Theory:** Able to apply category theory to the organization of functional programs, databases and design
-of dev libraries. Everything is fundamentally defined by how it relates to everything else ;).
+**Category Theory:** Capable of describing program design and "recipes" for computability of useful mathematical operations 
+(such as autodifferentiation) in the language of category theory
 
-**Longitudinal Analysis:** Time series data is fundamental for understanding correlations. Performing longitudinal
-analysis prior to machine learning model design helps predictive power & resilience against covariate shift.
+**Statistics/Longitudinal Analysis:** Able to apply statistical methods to temporal data to understand patterns and correlations that manifest or change across time
 
-**Probabalistic & Differential 
+**Other fields:** Linear & Tensor Algebra/Calculus, Differential Equations, Graph Theory, Decision Theory, Measure Theory, Information Theory, Probabalistic & Differential Learning Methods
 
 ### Soft Skills
 
@@ -139,9 +149,9 @@ analysis prior to machine learning model design helps predictive power & resilie
 
 **Recruiting & Team Building:** Hired/managed dozens of resources from development to sales
 
-**Offshore Team Management:** 10+ years of experience managing offshore development teams
+**Offshore Team Management:** Many years of experience managing offshore development teams
 
-**Tech Sales & Business Development:** Experience in closing 6 figure software development deals 
+**Tech Sales & Business Development:** Experience in closing large software development and licensing deals
 
 <br>
 
@@ -159,13 +169,10 @@ analysis prior to machine learning model design helps predictive power & resilie
 
 -----
 
-![m]({{site.baseurl}}/images/smartphone.png) 312.715.7419 
+![m]({{site.baseurl}}/images/Signal-06.png) 312.715.7419 
 
 ![e]({{site.baseurl}}/images/email.png) superuser@hashsignals.com
  
 ![w]({{site.baseurl}}/images/computer.png) [hashsignals.com](https://hashsignals.com)
 
-
 ![gh]({{site.baseurl}}/images/github.png) [github.com/iamalwaysuncomfortable](https://github.com/iamalwaysuncomfortable)
-
-![li]({{site.baseurl}}/images/linkedin.png) [linkedin.com/in/mike-turner-data](https://linkedin.com/in/mike-turner-data)
