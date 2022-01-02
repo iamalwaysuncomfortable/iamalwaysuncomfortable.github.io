@@ -113,7 +113,7 @@ validation/deployment in production
 
 ### Tool Stack
 
-**Languages:** Python, Javascript, Lua, R, C#, Java, Dart/Flutter, Solidity, Julia
+**Languages:** Python, Javascript, Rust, Java, C#, Lua, Julia, R, Dart/Flutter, Solidity
 
 **Frontend:** React Native/JS, Flutter, Materalize, Jekyll, Unity3D, Unreal, Corona
 
