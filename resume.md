@@ -7,12 +7,19 @@ permalink: /resume/
 ## Work Experience
 
 -----
+### Senior Developer / Mathematician
+**Company:** Redacted
+
+**Dates:** Q3. 2021 - Current
+
+**Description:**
+Rust based crypto systems.
 
 ### Machine Learning Developer / Analyst
 
 **Company:** [Hashsignals](https://hashsignals.com)
 
-**Dates:** Q1. 2016 - Current
+**Dates:** Q1. 2016 - Q3 2021
 
 **Description:**
 
@@ -95,6 +102,9 @@ Application developer assigned to the following projects over the course of empl
 
 ### Competencies
 
+**Async & Parallel Computing:** Mastery of using both parallelization & concurrency in software, with very good
+of how to instrument asynchronous futures/tasks/executors in multiple languages
+
 **Data Wrangling:** Finessing messy data into formats where meaningful analysis can be performed. 
 Developing new warehousing solutions when need arises
 
@@ -113,7 +123,11 @@ validation/deployment in production
 
 ### Tool Stack
 
-**Languages:** Python, Javascript, Rust, Java, C#, Lua, Julia, R, Dart/Flutter, Solidity
+**Languages (Mastery):** Python, Rust, Javascript, Julia
+
+**Languages (Proficient):** Java, C#, Lua, R, Dart/Flutter, Solidity
+
+**Concurrency/Parallelism**: Tokio/Futures/Rayon (Rust), Asyncio/Aiohttp/Asyncpg (Python)
 
 **Frontend:** React Native/JS, Flutter, Materalize, Jekyll, Unity3D, Unreal, Corona
 
@@ -124,18 +138,20 @@ Amazon SageMaker, Google AI Platform
 
 **Visualization:** Matplotlib, GGplot2, Plotly/Dash
 
-**Databases/Caches:** PostgreSQL, MySQL, MongoDB, DynamoDB, Bigquery, BigTable, Redis, GraphQL
+**Databases/Caches:** PostgreSQL, MySQL, MongoDB, DynamoDB, Bigquery, BigTable, Redis, GraphQL, Lmdb
 
 **Cloud Infrastructure:** 
 Amazon Stack (EC2/Lambda/RDS/SQS/ECS/IAM/S3/etc.), Google Stack (Compute/App Engine/Firebase/Cloud Functions), Cloudformation, DeployManager
 
-**Blockchain:** Hyperledger Sawtooth/Indy, Ethereum Ecosystem (Solidity/MetaMask/Truffle/Etc.)
+**Blockchain:** Hyperledger Sawtooth/Indy, Ethereum Ecosystem (Solidity/MetaMask/Truffle/Etc.), Stellar Consensus Protocol Experience
 
 **Other Tools:** Wireshark, Pupeteer, BeautifulSoup, Scrapy, git, JIRA
 
 <br>
 
 ### Mathematical Skills
+
+**Cryptography Fundamentals**: Solid understanding of cryptographic primitives such as key exchange schemes and key derivation protocols, commitment schemes (and "zero knowledge" schemes resulting from them), and eliptic curve math. Also can perform analyses of cryptography schemes using mathematic tools from group/ring/field theory, algebraic geometry, and information theory. Not yet a cryptographer, but certainly a cryptography capable engineer.
 
 **Category Theory:** Capable of describing program design and "recipes" for computability of useful mathematical operations 
 (such as autodifferentiation) in the language of category theory
