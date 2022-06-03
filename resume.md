@@ -8,12 +8,12 @@ permalink: /resume/
 
 -----
 ### Senior Developer / Mathematician
-**Company:** Redacted
+**Company:** VC Funded San Francisco Cryptography Company
 
 **Dates:** Q3. 2021 - Current
 
 **Description:**
-Rust based crypto systems.
+Building, securing, and maintaining distributed Rust based crypto systems.
 
 ### Machine Learning Developer / Analyst
 
@@ -151,7 +151,7 @@ Amazon Stack (EC2/Lambda/RDS/SQS/ECS/IAM/S3/etc.), Google Stack (Compute/App Eng
 
 ### Mathematical Skills
 
-**Cryptography Fundamentals**: Solid understanding of cryptographic primitives such as key exchange schemes and key derivation protocols, commitment schemes (and "zero knowledge" schemes resulting from them), and eliptic curve math. Also can perform analyses of cryptography schemes using mathematic tools from group/ring/field theory, algebraic geometry, and information theory. Not yet a cryptographer, but certainly a cryptography capable engineer.
+**Cryptography Fundamentals**: Solid understanding of cryptographic primitives such as key exchanges, key derivation protocols, commitment schemes (and "zero knowledge" schemes resulting from them), and eliptic curve math. Can perform analyses of cryptography schemes using mathematic tools from Galois/group/ring/field theory, algebraic geometry, and information theory. Not yet a cryptographer, but solidly a cryptography capable engineer.
 
 **Category Theory:** Capable of describing program design and "recipes" for computability of useful mathematical operations 
 (such as autodifferentiation) in the language of category theory
