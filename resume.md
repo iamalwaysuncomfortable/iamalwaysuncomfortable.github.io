@@ -8,12 +8,17 @@ permalink: /resume/
 
 -----
 ### Senior Developer / Mathematician
-**Company:** VC Funded San Francisco Cryptography Company
+**Company:** Mobilecoin
 
 **Dates:** Q3. 2021 - Current
 
 **Description:**
-Building, securing, and maintaining distributed Rust based crypto systems.
+MobileCoin is a private cryptocurrency that uses elliptic curve cryptography within Intel SGX enclaves to encrypt transactions & validate them anonymously using zero knowledge proofs 
+
+Responsibilities included
+* Implementing chain of trust & data integrity validation for block authors & block data 
+* Implementing block data streaming with async Rust & gRPC to decrease transaction time
+* Implementing new transaction types & building foreign function interfaces (ffis) between Rust & Swift/Java to enable mobile app support for new transaction types
 
 ### Machine Learning Developer / Analyst
 
@@ -25,7 +30,7 @@ Building, securing, and maintaining distributed Rust based crypto systems.
 
 Consultancy focused on applying modern statistical analysis and machine learning methods to client business problems.
 
-Client uses-cases have focused on understanding and guiding end-user behavior, developing foundational ML automation usign NLP or Image Analysis, and understanding patterns in large datasets/lakes.
+Consultancy focused on applying modern statistical analysis & machine learning methods to build & retain audiences within video game & entertainment products
 
 Applications have included:
 - Recommendation engines for in-game micropurchases and e-commerce products
