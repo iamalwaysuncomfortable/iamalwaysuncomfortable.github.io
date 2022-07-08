@@ -7,7 +7,7 @@ permalink: /resume/
 ## Work Experience
 
 -----
-### Senior Softwar Engineer / Mathematician
+### Senior Software Engineer / Mathematician
 **Company:** Mobilecoin
 
 **Dates:** Q4. 2021 - Current
@@ -16,7 +16,7 @@ permalink: /resume/
 MobileCoin is a private cryptocurrency that uses elliptic curve cryptography within Intel SGX enclaves to encrypt transactions & validate them anonymously using zero knowledge proofs 
 
 Responsibilities:
-- Implementing chain of trust & data integrity validation for block authors & block data 
+- Data integrity validation for block data & chain of trust validation for historical and current blocks
 - Implementing block data streaming with async Rust & gRPC to decrease transaction time
 - Implementing new transaction types & building foreign function interfaces (ffis) between Rust & Swift/Java to enable mobile app support for new transaction types
 
