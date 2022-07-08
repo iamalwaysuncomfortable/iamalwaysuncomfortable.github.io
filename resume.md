@@ -7,18 +7,18 @@ permalink: /resume/
 ## Work Experience
 
 -----
-### Senior Developer / Mathematician
+### Senior Softwar Engineer / Mathematician
 **Company:** Mobilecoin
 
-**Dates:** Q3. 2021 - Current
+**Dates:** Q4. 2021 - Current
 
 **Description:**
 MobileCoin is a private cryptocurrency that uses elliptic curve cryptography within Intel SGX enclaves to encrypt transactions & validate them anonymously using zero knowledge proofs 
 
-Responsibilities included
-* Implementing chain of trust & data integrity validation for block authors & block data 
-* Implementing block data streaming with async Rust & gRPC to decrease transaction time
-* Implementing new transaction types & building foreign function interfaces (ffis) between Rust & Swift/Java to enable mobile app support for new transaction types
+Responsibilities:
+- Implementing chain of trust & data integrity validation for block authors & block data 
+- Implementing block data streaming with async Rust & gRPC to decrease transaction time
+- Implementing new transaction types & building foreign function interfaces (ffis) between Rust & Swift/Java to enable mobile app support for new transaction types
 
 ### Machine Learning Developer / Analyst
 
@@ -32,13 +32,14 @@ Consultancy focused on applying modern statistical analysis and machine learning
 
 Consultancy focused on applying modern statistical analysis & machine learning methods to build & retain audiences within video game & entertainment products
 
-Applications have included:
-- Recommendation engines for in-game micropurchases and e-commerce products
-- Classification tasks such as automatic lead qualification
-- Pattern discovery in large datasets (discovering types of customers that aren't immediately obvious, etc.)
-- Supervised & Unsupervised NLP tasks
+Responsibilities:
+- Making in-game recommendation engines via matrix factorization & ensemble methods
+- Using Apache Spark to perform ETL on unstructured data for consumption by ML models 
+- Building corpora & transformer NLP models for NER / bot dialog / intent analysis
+- Putting ML model prediction code into client-side mobile apps to ease server load 
 
-Secondary projects have included developing and backtesting strategies for cryptocurrency trading.
+
+Secondary projects included developing and backtesting strategies for cryptocurrency trading.
 
 <br>
 
