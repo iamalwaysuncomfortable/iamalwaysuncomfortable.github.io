@@ -4,9 +4,28 @@ title: "Projects"
 permalink: /projects/
 ---
 
+### Private Cryptocurrency Gifting
+
+#### Implementing New Transaction Types
+----
+
+![mobilecoin]({{site.baseurl}}/images/rustcode.png)
+
+**Client:** Mobilecoin Inc.
+
+**Years:** 2021-2022
+
+**Description**
+
+Mobilecoin is a cryptocurrency which encrypts all data about transactions sent on its network.
+
+Several app partners requested the ability to send gifts of Mobilecoin to users who did not yet own Mobilecoin wallets. Designed/implemented a crypto scheme that allowed existing Mobilecoin account holders to send Mobilecoin people who do not yet have Mobilecoin accounts
+
+<br>
+
 ### Forest Framework
 
-#### Private Applications In Signal Messenger
+#### Private Applications in Signal Messenger
 ----
 
 ![signal_app]({{site.baseurl}}/images/signal_app.jpeg)
@@ -62,7 +81,7 @@ Both the OCR & NER Models are run directly within the app to maximize speed & av
 
 ### BlockUSign
 
-#### Document Signing vVa Ethereum Blockchain
+#### Document Signing via Ethereum Blockchain
 ----
 
 ![dash]({{site.baseurl}}/images/blockchain.png)
@@ -78,6 +97,8 @@ Blockusign takes a SHA256 hash of an uploaded document & Ethereum account public
 **Links to Work**
 
 * [Blockusign](https://iamalwaysuncomfortable.github.io/dapp_testing_range/) (requires metamask)
+
+<br>
 
 ### AI Support Assistant
 
