@@ -7,28 +7,25 @@ permalink:
 ## So you've taken an interest in me...
 ![eyes](images/ezgif-3-48f51aa682f9.gif){:class="img-responsive"}
 
+## Michael Turner
 
+_Senior Software Engineer Specializing in Cryptographic Systems and Machine Learning_
 
-### A Brief Professional History
-**Machine Learning Engineer / Applied Mathematician**
+I work towards products and tools that protect people's privacy and help society be more evenly distributed. It's possible to make products of great utility without sacrificing privacy and personal autonomy.
 
-_Focusing on designing models from principled mathematical foundations and taking them to production_
+## Key Interests & Competencies
+### Rust
 
-Veteran of the game industry. 
-I've worked on the development and operation of several live MMO and social games 
-wearing both machine learning and software/creative production hats.
+![rust](images\rustcode.png){:class="img-responsive"}
 
-I run an individual consultancy called Hashsignals. I help companies understand their 
-problem spaces via statistical techniques such as longitudinal analyses 
-and help them put appropriate machine learning methods into place 
-in compute clouds or on the edge that become core to their products.
+### Python
 
-I also have a good understanding of cloud architecture & mobile front ends.
+![rust](images\python.png){:class="img-responsive"}
 
-Key industry verticals have included Paas/Saas companies and creative 
-industries such as the game industry. 
+### Cryptographic Systems
 
-### Skills & Experience
-[Resume](/resume)
+![eliptic_curve](images\elipticcurve.png){:class="img-responsive"}
 
-[Projects](/projects)
+### Modeling and Analysis
+
+![attention_head](images\transformer.png){:class="img-responsive"}
