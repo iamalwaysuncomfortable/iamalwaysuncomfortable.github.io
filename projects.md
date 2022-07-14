@@ -15,29 +15,29 @@ permalink: /projects/
 
 **Description**
 
-Commerce enabled app framework built to enable private applications to be built within the Signal app. 
+Framework enabling private, commerce enabled applications to be built within Signal
 
 The framework is built from:
 
-1. [Auxin](https://github.com/mobilecoinofficial/auxin) - A Rust based server-side Signal client which allows applications to communicate with humans through Signal. Built using Signal's [libsignal](https://github.com/signalapp/libsignal) which exposes the cryptographic primitives behind the Signal Protocol needed to build 3rd party signal clients
+1. [Auxin](https://github.com/mobilecoinofficial/auxin) - A server-side Signal client implemented in Rust which allows applications to communicate with humans through Signal. Built using Signal's [libsignal](https://github.com/signalapp/libsignal) which exposes the cryptographic primitives behind the Signal Protocol needed to build 3rd party signal clients
 
-2. [Forest](https://github.com/mobilecoinofficial/forest) - An async Python based application logic framework that allows people to build automated chat applications with AI driven dialog flow & fiat + cryptocurrency payments
+2. [Forest](https://github.com/mobilecoinofficial/forest) - An async Python based application framework that allows people to build automated chat applications with AI driven dialog flow & fiat + cryptocurrency payments
 
 **Links to Work**
 
-*Live Bots*
+*Live Applications*
 
-[Imogen](https://signal.group/#CjQKIBMsSPcIQYNjlSA1C1NqvapdjiZX31bdrCpH4ZI9BbwEEhAHOP7DVF1GjizAzYmOnDcY) - AI based art generator based on VQGAN/CLIP
+* [Imogen](https://signal.group/#CjQKIBMsSPcIQYNjlSA1C1NqvapdjiZX31bdrCpH4ZI9BbwEEhAHOP7DVF1GjizAzYmOnDcY) - AI based art generator based on VQGAN/CLIP
 
-[Forest Email](https://signal.me/#p/+16266690001) - Private email addresses
+* [Forest Email](https://signal.me/#p/+16266690001) - Private email addresses
 
-[Forest Contact](https://signal.me/#p/+447888866969) - Private phone numbers
+* [Forest Contact](https://signal.me/#p/+447888866969) - Private phone numbers
 
 *Github Links*
 
-[Auxin](https://github.com/mobilecoinofficial/auxin)
+* [Auxin](https://github.com/mobilecoinofficial/auxin)
 
-[Forest](https://github.com/mobilecoinofficial/forest)
+* [Forest](https://github.com/mobilecoinofficial/forest)
 
 <br>
 
@@ -54,15 +54,15 @@ The framework is built from:
 
 **Description**
 
-Scripd is a Flutter based app which uses which combines CNN based Optical Character Recognition (OCR) and transformer based Named Entity Recognition (NER) to enable users to scan their prescriptions and automatically populate prescription reminders.
+Scripd is a Flutter based app which allows users to scan their prescriptions & automatically populate prescription reminders. Text is recognized using CNN based Optical Character Recognition (OCR) & prescription data is populated using transformer based Named Entity Recognition (NER) applied to the text recognized by the OCR
 
-Both the OCR & NER Models are run directly within the app to get high speed results and avoid the need for internet connectivity. Updates to the models are bootstrapped in the background when the users are connected to wifi.
+Both the OCR & NER Models are run directly within the app to maximize speed & avoid the need for internet connectivity. Updates to the models are bootstrapped in the background when users are connected to WIFI
 
 <br>
 
 ### BlockUSign
 
-#### Document Signing via Ethereum Blockchain
+#### Document Signing vVa Ethereum Blockchain
 ----
 
 ![dash]({{site.baseurl}}/images/blockchain.png)
@@ -71,22 +71,17 @@ Both the OCR & NER Models are run directly within the app to get high speed resu
 
 **Description**
 
-Proof of concept for a client who wanted to build a blockchain 
-based identity system for validating licensing and registrations for businesses. 
+Proof of concept of storing anonymous credentials on public blockchains
 
-Blockusign takes a SHA256 hash of an uploaded document and stores it on 
-the public Ethereum blockchain. Any other user can validate that document later.
-If the user is signed in with their ethereum account, 
-the associated documents with their account will appear, proving document authorship.
-
+Blockusign takes a SHA256 hash of an uploaded document & Ethereum account public keys & stores it on the Ethereum blockchain. Any other user can validate that document later using the document and original Ethereum keys. If a user is signed in with their Ethereum account, the associated documents with their account will appear. Future plans were to enable document verification by correlating encrypted data from official records with documents
 
 **Links to Work**
 
 * [Blockusign](https://iamalwaysuncomfortable.github.io/dapp_testing_range/) (requires metamask)
 
-### Inbound Client Classification Engine
+### AI Support Assistant
 
-#### Classifying Support Requests + Building Useful Integrations
+#### Support Request Classification + Useful Language Integrations
 ----
 
 ![loggly]({{site.baseurl}}/images/loggly.png)
@@ -97,7 +92,7 @@ the associated documents with their account will appear, proving document author
 
 **Description**
 
-1. Developed an ensemble classifier within salesforce that analyzed email & chatbot message content, company info & other related variables to classify the potential value of prospective clients and route them to support reps with specific recommendations
+1. Developed an ensemble classifier within salesforce that analyzed email & chatbot message content, company info & other related variables to classify the potential value of prospective clients & route them to support reps with specific recommendations
 
 2. Developed plugins to enable log collection/shipping to Loggly for popular languages & software. The inbound classifier would automatically recommend specific integration code based on the text in client requests
 
@@ -105,11 +100,15 @@ the associated documents with their account will appear, proving document author
 
 * [Logging in the Corona Game Engine](https://www.loggly.com/blog/logging-from-game-engines-part-two-logging-in-the-corona-sdk/)
 
-* [Customer vertical targeting](http://www.gamesauce.biz/2014/09/10/a-comprehensive-analysis-of-the-tools-that-support-mobile-game-development-part-1/)
+* [Logging for Unity3d](https://www.loggly.com/blog/logging-in-unity3d/)
+
+* [Customer Vertical Targeting](http://www.gamesauce.biz/2014/09/10/a-comprehensive-analysis-of-the-tools-that-support-mobile-game-development-part-1/)
 
 <br>
 
-### Analytics Dashboard for Social Network Games
+### PlaySignals
+
+#### Analytics Dashboard for Social Network Games
 ----
 
 ![dash]({{site.baseurl}}/images/research.gif)
@@ -120,13 +119,13 @@ the associated documents with their account will appear, proving document author
 
 **Description**
 
-Analytics service for Bitfold's social network games which measured interactions of players with the game's interface & warehoused measurements into an isolated Postgres analytics database using stored procedures. An EC2 based web-service calculated metrics & statiscal analyses on collected data regularly
+Analytics service for Bitfold's social network games which measured interactions of players with the game's interface. Measurements were warehoused into an isolated Postgres analytics database using stored procedures. An EC2 based web-service was run regularly to calculate metrics & statiscal analyses on collected data
 
-Several Bitfold Clients chose to integrate the dashboard into their games
+Several game publishers chose to integrate the dashboard into their games
 
 **Links to Work**
 
-The service isn't operational anymore, but the following articles explain our thinking
+The service isn't operational anymore, but the following articles explain the thinking behind the product
 
 * [Overview of the Social Game Industry](https://www.slideshare.net/Bitfold/social-facebook-game-space-at-a-glance)
 
