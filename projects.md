@@ -50,9 +50,9 @@ The framework is built from:
 
 1. [Auxin](https://github.com/mobilecoinofficial/auxin) - A server-side Signal client implemented in Rust which allows applications to communicate with humans through Signal. Built using Signal's [libsignal](https://github.com/signalapp/libsignal) which exposes the cryptographic primitives behind the Signal Protocol needed to build 3rd party signal clients
 
-2. [Forest](https://github.com/mobilecoinofficial/forest) - An async Python based application framework that allows people to build automated chat applications with AI driven dialog flow & fiat + cryptocurrency payments
+2. [Forest](https://github.com/mobilecoinofficial/forest) - An async Python based application framework that allows people to build automated chat applications with AI driven dialog flow and fiat + cryptocurrency payments
 
-Mobilecoin, a cryptocurrency integrated into Signal Messenger, acquired the Forest Framework 2021 in order to provide developers with a platform to build signal apps that supported Mobilecoin transactions
+Mobilecoin, a cryptocurrency integrated into Signal Messenger acquired the Forest Framework 2021 in order to provide developers with a platform to build Signal apps that supported Mobilecoin transactions
 
 **Links to Work**
 
@@ -74,7 +74,7 @@ Mobilecoin, a cryptocurrency integrated into Signal Messenger, acquired the Fore
 
 ### Scripd
 
-#### Automated Prescription Reminders Using NLP & Computer Vision
+#### Automated Prescription Reminders Using NLP and Computer Vision
 ----
 
 ![medical_app]({{site.baseurl}}/images/medical_compressed.png)
@@ -85,9 +85,9 @@ Mobilecoin, a cryptocurrency integrated into Signal Messenger, acquired the Fore
 
 **Description**
 
-Scripd is a Flutter based app which allows users to scan their prescriptions & automatically populate prescription reminders. Text is recognized using CNN based Optical Character Recognition (OCR) & prescription data is populated using transformer based Named Entity Recognition (NER) applied to the text recognized by the OCR
+Scripd is a Flutter based app which allows users to scan their prescriptions and automatically populate prescription reminders. Text is recognized using CNN based Optical Character Recognition (OCR) and prescription data is populated using transformer based Named Entity Recognition (NER) applied to the text recognized by the OCR
 
-Both the OCR & NER Models are run directly within the app to maximize speed & avoid the need for internet connectivity. Updates to the models are bootstrapped in the background when users are connected to WIFI
+Both the OCR and NER Models are run directly within the app to maximize speed and avoid the need for internet connectivity. Updates to the models are bootstrapped in the background when users are connected to WIFI
 
 <br>
 
@@ -104,7 +104,7 @@ Both the OCR & NER Models are run directly within the app to maximize speed & av
 
 Proof of concept of storing anonymous credentials on public blockchains
 
-Blockusign takes a SHA256 hash of an uploaded document & Ethereum account public keys & stores it on the Ethereum blockchain. Any other user can validate that document later using the document and original Ethereum keys. If a user is signed in with their Ethereum account, the associated documents with their account will appear. Future plans were to enable document verification by correlating encrypted data from official records with documents
+BlockUSign takes a SHA256 hash of an uploaded document and Ethereum account public keys and stores it on the Ethereum blockchain. Any other user can validate that document later using the document and original public Ethereum account keys. If a user is signed in with their Ethereum account, the app will scan the Ethereum chain for the associated documents and display them to the user. Future plans were to enable document verification by correlating encrypted data from official records with documents
 
 **Links to Work**
 
@@ -125,9 +125,9 @@ Blockusign takes a SHA256 hash of an uploaded document & Ethereum account public
 
 **Description**
 
-1. Developed an ensemble classifier within salesforce that analyzed email & chatbot message content, company info & other related variables to classify the potential value of prospective clients & route them to support reps with specific recommendations
+1. Developed an ensemble classifier within salesforce that analyzed email and chatbot message content, company info and other related variables to classify the potential value of prospective clients and route them to support reps with specific recommendations
 
-2. Developed plugins to enable log collection/shipping to Loggly for popular languages & software. The inbound classifier would automatically recommend specific integration code based on the text in client requests
+2. Developed plugins to enable log collection/shipping to Loggly for popular languages and software. The inbound classifier would automatically recommend specific integration code based on the text in client requests
 
 **Links to Work** 
 
@@ -152,7 +152,7 @@ Blockusign takes a SHA256 hash of an uploaded document & Ethereum account public
 
 **Description**
 
-Analytics service for Bitfold's social network games which measured interactions of players with the game's interface. Measurements were warehoused into an isolated Postgres analytics database using stored procedures. An EC2 based web-service was run regularly to calculate metrics & statiscal analyses on collected data
+Analytics service for Bitfold's social network games which measured interactions of players with the game's interface. Measurements were warehoused into an isolated Postgres analytics database using stored procedures. An EC2 based web-service was run regularly to calculate metrics and statiscal analyses on collected data to display on the dashboards
 
 Several game publishers chose to integrate the dashboard into their games
 
