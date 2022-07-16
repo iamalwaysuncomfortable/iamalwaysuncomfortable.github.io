@@ -25,7 +25,7 @@ Responsibilities:
 
 <br>
 
-### Machine Learning Developer / Analyst
+### Machine Learning Developer
 
 **Company:** [Hashsignals](https://hashsignals.com)
 
@@ -46,7 +46,7 @@ Secondary projects included developing strategies for cryptocurrency trading
 
 <br>
 
-### Machine Learning Developer / Analyst
+### Machine Learning Developer
 
 **Company:** [Loggly](https://loggly.com)
 

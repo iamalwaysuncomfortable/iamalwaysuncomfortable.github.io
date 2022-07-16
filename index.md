@@ -11,7 +11,7 @@ permalink:
 
 _Senior Software Engineer Specializing in Cryptographic Systems and Machine Learning_
 
-I work towards products and tools that protect people's privacy and help society be more evenly distributed.
+I work towards products that protect people's privacy andhelp society be more evenly distributed
 
 ## Things I'm Good At
 ### Rust
