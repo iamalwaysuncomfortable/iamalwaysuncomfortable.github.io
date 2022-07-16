@@ -11,7 +11,7 @@ permalink:
 
 _Senior Software Engineer Specializing in Cryptographic Systems and Machine Learning_
 
-My ideological drive is working towards products and tools that protect people's privacy and help society be more evenly distributed. In that vein I put a lot of mental energy into thinking about what combination of existing technologies and invention can be used to build open systems that are accessible for people to use and operate.
+I work towards products and tools that protect people's privacy and help society be more evenly distributed.
 
 ## Things I'm Good At
 ### Rust
