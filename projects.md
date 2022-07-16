@@ -4,6 +4,8 @@ title: "Projects"
 permalink: /projects/
 ---
 
+Below is a selection of projects 
+
 ### Private Cryptocurrency Gifting
 
 #### Implementing New Transaction Types
@@ -19,7 +21,7 @@ permalink: /projects/
 
 Mobilecoin is a cryptocurrency which encrypts all data about transactions sent on its network.
 
-Several app partners requested the ability to send gifts of Mobilecoin to users who did not yet own Mobilecoin wallets. Designed/implemented a crypto scheme that allowed existing Mobilecoin account holders to send Mobilecoin people who do not yet have Mobilecoin accounts
+App partners requested the ability to send Mobilecoin to users who did not yet have Mobilecoin accounts. Designed/implemented a crypto scheme that allowed existing Mobilecoin account holders to send Mobilecoin gifts to people who did not yet have an account that could be redeemed after new account creation
 
 <br>
 
@@ -41,6 +43,8 @@ The framework is built from:
 1. [Auxin](https://github.com/mobilecoinofficial/auxin) - A server-side Signal client implemented in Rust which allows applications to communicate with humans through Signal. Built using Signal's [libsignal](https://github.com/signalapp/libsignal) which exposes the cryptographic primitives behind the Signal Protocol needed to build 3rd party signal clients
 
 2. [Forest](https://github.com/mobilecoinofficial/forest) - An async Python based application framework that allows people to build automated chat applications with AI driven dialog flow & fiat + cryptocurrency payments
+
+Mobilecoin, a cryptocurrency integrated into Signal Messenger, acquired the Forest Framework 2021 in order to provide developers with a platform to build signal apps that supported Mobilecoin transactions
 
 **Links to Work**
 
