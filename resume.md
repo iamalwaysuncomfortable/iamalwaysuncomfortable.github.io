@@ -8,17 +8,22 @@ permalink: /resume/
 
 -----
 ### Senior Software Engineer / Mathematician
-**Company:** Mobilecoin
+**Company:** [MobileCoin](https://mobilecoin.com)
 
 **Dates:** Q4. 2021 - Current
 
 **Description:**
-MobileCoin is a private cryptocurrency that uses elliptic curve cryptography within Intel SGX enclaves to encrypt transactions & validate them anonymously using zero knowledge proofs 
+ MobileCoin is a private cryptocurrency that the encrypts all data on senders, receivers, & amounts within transactions. It uses elliptic curve cryptography within Intel SGX enclaves to encrypt transactions & then validates them in encrypted form using zero knowledge proofs
 
 Responsibilities:
-- Data integrity validation for block data & chain of trust validation for historical and current blocks
+- Data integrity validation for block data
+- Chain of trust validation for block producers/consumers
 - Implementing block data streaming with async Rust & gRPC to decrease transaction time
-- Implementing new transaction types & building foreign function interfaces (ffis) between Rust & Swift/Java to enable mobile app support for new transaction types
+- Implementing new transaction types
+- Building foreign function interfaces (ffis) between Rust & Swift/Java to enable mobile app support for new transaction types
+- Performing regular code reviews, design meetings, & engineering retrospectives on MobileCoin protocol evolution
+
+<br>
 
 ### Machine Learning Developer / Analyst
 
@@ -28,18 +33,16 @@ Responsibilities:
 
 **Description:**
 
-Consultancy focused on applying modern statistical analysis and machine learning methods to client business problems.
-
-Consultancy focused on applying modern statistical analysis & machine learning methods to build & retain audiences within video game & entertainment products
+Consultancy focused on applying modern statistical analysis & machine learning methods to build & retain audiences within entertainment & consumer app software
 
 Responsibilities:
-- Making in-game recommendation engines via matrix factorization & ensemble methods
+- Making in-game recommendation engines using matrix factorization based methods
 - Using Apache Spark to perform ETL on unstructured data for consumption by ML models 
 - Building corpora & transformer NLP models for NER / bot dialog / intent analysis
-- Putting ML model prediction code into client-side mobile apps to ease server load 
+- Putting ML model prediction code into client-side mobile apps to ease server load
+- Designing user interfaces to ML technology & testing them with end users
 
-
-Secondary projects included developing and backtesting strategies for cryptocurrency trading.
+Secondary projects included developing strategies for cryptocurrency trading
 
 <br>
 
@@ -51,14 +54,16 @@ Secondary projects included developing and backtesting strategies for cryptocurr
 
 **Description:**
 
-Loggly desired to automate their inbound business inquiry classification and response to increase inquiries conversion to clients.
+Loggly is a cloud log aggregation company. Loggly desired to apply machine learning to automate routing client communications to appropriate support personnell/resources to increase sales & customer retention
 
-Responsible for the following:
-- Running analysis of the existing client base with statistical analyses & unsupervised learning methods to understand existing inquiry to conversion behavior
-- Creating inbound classification systems (including new datasets) which classified clients into several buckets which indicated what approach and how much effort should be taken in converting the client
-- Developed several libraries for attaching loggly quickly to various programming languages, 3rd party software and libraries
-- Analyzed client-volunteered datasets in order to generate several application-specific test datasets prospective clients could view in order to increase client conversion in various verticals
+Responsibilities:
+- Performing longitudinal analysis & unsupervised learning methods on sales data to understand the factors behind successful sales conversions
+- Analyzing client-volunteered datasets in order to generate profiles of usages patterns for different industry verticals
+- Creating inbound classification systems that classified inquiries into several buckets which indicated what approach & how much effort should be taken in converting the client
+- Creating classification systems which recommended support resources to Loggly clients & recommended courses of action to support personnell
+- Developing libraries for attaching loggly quickly to various programming languages, 3rd party software & libraries
 
+<br>
 
 ### Managing Partner
 
@@ -68,15 +73,12 @@ Responsible for the following:
 
 **Description:**
 
-Co-Founder of Bitfold, a game developer focused on MMO and 
-Mobile Social Games. Bitfold worked on both original game titles and the games of major clients
-such as Wargaming.net, Playdom (acquired by Disney), and Atari.
+Co-Founder of Bitfold, a game developer focused on mobile social games. Bitfold worked on both original game titles & the games of major clients such as Wargaming.net, Playdom (acquired by Disney), & Atari
 
-Personally worked on 12+ games using varying tech stacks with special focus on designing analytics backends. 
-Analytics backends generally included dashboards and microservices that ran a variety of supervised learning models focused on recommending actions to players.
-
-Oversaw a mix of onshore/offshore teams for each project ranging between 
-4-15 people per project.
+Responsibilities:
+- Produced & guided technical direction for 6 games using varying tech stacks. Implemented a unified analytics backend for all game engines used to produce client games
+- Oversaw a mix of onshore/offshore teams for each project ranging between 4-15 people per project
+- Negotiated new game development details, managed client expectations, oversaw ongoing operation of games
 
 <br>
 
@@ -88,16 +90,16 @@ Oversaw a mix of onshore/offshore teams for each project ranging between
 
 **Description:**
 
-Realmware Corporation was the maker of a C# based game engine called Visual3D that was used to make 
-training simulations for national defense and private industry.
+Realmware Corporation was the maker of a C# based game engine called Visual3D that was used to make games & training simulations for private industry
 
 Application developer assigned to the following projects over the course of employment
 
-- Development of sample games and reference projects for clients to get started with
+- Development of sample games for clients to get started with
 - Development of custom simulations for clients
-- Development of physics engine add-ons
-- Development of documentation &amp; tutorials
-- Support of many public version releases of the Visual3D.NET Game Engine
+- Development of the Visual3D rendering engine
+- Development of new physics engine features
+- Development of documentation
+- Support of major version releases of the Visual3D Game Engine
 - Management of offshore developers
 
 <br>
@@ -108,48 +110,45 @@ Application developer assigned to the following projects over the course of empl
 
 ### Competencies
 
-**Async & Parallel Computing:** Mastery of using both parallelization & concurrency in software, with very good
-of how to instrument asynchronous futures/tasks/executors in multiple languages
+**Cryptographic Software:** Working knowledge of fundamental mathematics behind cryptography (group/field/information/number theory, etc.) Experience combining key exchanges, group theory fundamentals, signatures/proofs, hash functions & information hiding into cryptosystems
 
-**Data Wrangling:** Finessing messy data into formats where meaningful analysis can be performed. 
-Developing new warehousing solutions when need arises
+**Blockchain Development:** Direct experience in engineering distributed blockchains. Solid familiarity with consensus protocols like SCP, blockchain transaction proof math, chains of trust within blockchains, & communication between multiple node types within a network. Experienced in utilizing public & private blockchains within an application stack
 
-**Model Development and Deployment:** Development of machine learning models from principled mathematical approaches to subsequent 
-validation/deployment in production
+**Async & Parallel Computing:** Competent in using both parallelization & concurrency in software. Solid knowledge of how to instrument asynchronous futures/tasks/executors in multiple languages
 
-**Blockchain Development:** Utilizing public or private blockchains in an application stack
+**Data Wrangling:** Finessing messy data into formats where meaningful analysis can be performed. Building data pipelines on both small scales using tools like Pandas/Numpy/Scikit Learn & larger scales using combinations of tools like Apache Spark & Amazon Kinesis. Continous data migration from production databases
 
-**Cloud Based Web Apps:** Developing and deploying applications to public clouds using modern ideas on app architecture
+**Model Development & Deployment:** Knowledge of how to create & validate machine learning models from principled mathematical approaches. Experience deploying ML pipelines & developing human interfaces with machine learning products
 
-**Project Management:** Coordinating skilled humans to execute projects using modern PM tools (slack, JIRA, etc.)
+**Cloud Based Web Apps:** Experience running apps in AWS & holder of AWS certifications. Secondary experience building apps in Google Firebase, Cloudflare Workers & several niche cloud providers like [fly.io](https://fly.io)
 
+**Team Management & Priority Setting:** Building compassionate teams that do constant priority evaluation, supportive code review & Socratic post mortems of engineering decisions
 
 <br>
 
-
 ### Tool Stack
 
-**Languages (Mastery):** Python, Rust, Javascript, Julia
+**Languages (Mastery):** Python, Rust, Javascript
 
-**Languages (Proficient):** Java, C#, Lua, R, Dart/Flutter, Solidity
+**Languages (Proficient):** Julia, Java, C#, Lua, R, Dart/Flutter, Solidity
 
-**Concurrency/Parallelism**: Tokio/Futures/Rayon (Rust), Asyncio/Aiohttp/Asyncpg (Python)
+**RPC:** gRPC/protobuf, jsonRPC, REST, GraphQL, Linux OS file descriptors & pipes
 
-**Frontend:** React Native/JS, Flutter, Materalize, Jekyll, Unity3D, Unreal, Corona
+**Concurrency/Parallelism**: Tokio/Futures/Rayon (Rust), Asyncio/Aiohttp/Asyncpg/Subprocess/Ray (Python)
 
-**ML/AI Frameworks:** Scikit Learn, Tensorflow, Spark, PyTorch, Keras, spaCy, Huggingface Transformers,
-Amazon SageMaker, Google AI Platform
+**Frontend:** React Native/JS, Flutter, Jekyll, Unity3D, Unreal, Corona
+
+**ML/AI Frameworks:** Scikit Learn, Tensorflow, Spark, PyTorch, Keras, spaCy, Huggingface Transformers, Amazon SageMaker, Google AI Platform, Julia
 
 **Testing/Deployment:** Mocha, CircleCI, PyTest, UnitTest, Enzyme, Jest, Github Actions
 
 **Visualization:** Matplotlib, GGplot2, Plotly/Dash
 
-**Databases/Caches:** PostgreSQL, MySQL, MongoDB, DynamoDB, Bigquery, BigTable, Redis, GraphQL, Lmdb
+**Databases/Caches:** PostgreSQL, MySQL, DynamoDB, Redis, GraphQL, Lmdb, gRPC/Protobuf
 
-**Cloud Infrastructure:** 
-Amazon Stack (EC2/Lambda/RDS/SQS/ECS/IAM/S3/etc.), Google Stack (Compute/App Engine/Firebase/Cloud Functions), Cloudformation, DeployManager
+**Cloud Infrastructure:** Amazon Stack (EC2/Lambda/RDS/SQS/ECS/IAM/S3/etc.), Google Stack (Compute/Firebase/Cloud Functions), Cloudflare, Fly.io
 
-**Blockchain:** Hyperledger Sawtooth/Indy, Ethereum Ecosystem (Solidity/MetaMask/Truffle/Etc.), Stellar Consensus Protocol Experience
+**Blockchain:** Rust, Eliptic Curve Cryptography, Bulletproofs/Range Proofs/Merkle Proofs, Hyperledger Sawtooth/Indy, Ethereum Ecosystem (Solidity/MetaMask/Truffle/Etc.), Stellar Consensus Protocol
 
 **Other Tools:** Wireshark, Pupeteer, BeautifulSoup, Scrapy, git, JIRA
 
@@ -157,15 +156,13 @@ Amazon Stack (EC2/Lambda/RDS/SQS/ECS/IAM/S3/etc.), Google Stack (Compute/App Eng
 
 ### Mathematical Skills
 
-**Cryptography Fundamentals**: Solid understanding of cryptographic primitives such as key exchanges, key derivation protocols, commitment schemes (and "zero knowledge" schemes resulting from them), and eliptic curve math. Can perform analyses of cryptography schemes using mathematic tools from Galois/group/ring/field theory, algebraic geometry, and information theory. Not yet a cryptographer, but solidly a cryptography capable engineer.
+**Cryptography Fundamentals**: Solid understanding of cryptographic primitives such as key exchanges, key derivation protocols, commitment schemes & eliptic curve math. Can perform analyses of cryptographic code & designs. Not yet a cryptographer, but capable of writing & reviewing cryptographic code
 
-**Category Theory:** Capable of describing program design and "recipes" for computability of useful mathematical operations 
-(such as autodifferentiation) in the language of category theory
+**Optimization:** Solid foundations in creating/analyzing learning & optimization methods that arise from results from linear algebra, tensor calculus, & information theory
 
-**Statistics/Longitudinal Analysis:** Able to apply statistical methods to temporal data to understand patterns and correlations that manifest or change across time
+**Statistics/Longitudinal Analysis:** Able to apply statistical methods to temporal data to understand correlations that change across time
 
-**Other fields:** Linear & Tensor Algebra/Calculus, Linear Optimization, Differential Equations, Graph Theory, Decision Theory, Measure Theory, Information Theory, Probabalistic & Differential Learning Methods
-
+**Other Mathematical Competencies:** Category theory, graph theory, decision theory, measure theory, number theory
 
 ### Soft Skills
 
@@ -175,7 +172,7 @@ Amazon Stack (EC2/Lambda/RDS/SQS/ECS/IAM/S3/etc.), Google Stack (Compute/App Eng
 
 **Offshore Team Management:** Many years of experience managing offshore development teams
 
-**Tech Sales & Business Development:** Experience in closing large software development and licensing deals
+**Tech Sales & Business Development:** Experience in closing large software development & licensing deals
 
 <br>
 
