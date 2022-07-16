@@ -13,15 +13,15 @@ permalink: /resume/
 **Dates:** Q4. 2021 - Current
 
 **Description:**
- MobileCoin is a private cryptocurrency that the encrypts all data on senders, receivers, & amounts within transactions. It uses elliptic curve cryptography within Intel SGX enclaves to encrypt transactions & then validates them in encrypted form using zero knowledge proofs
+ MobileCoin is a private cryptocurrency that the encrypts all data on senders, receivers, and amounts within transactions. It uses elliptic curve cryptography within Intel SGX enclaves to encrypt transactions and then validates them in encrypted form using zero knowledge proofs
 
 Responsibilities:
 - Data integrity validation for block data
 - Chain of trust validation for block producers/consumers
-- Implementing block data streaming with async Rust & gRPC to decrease transaction time
+- Implementing block data streaming with async Rust and gRPC to decrease transaction time
 - Implementing new transaction types
-- Building foreign function interfaces (ffis) between Rust & Swift/Java to enable mobile app support for new transaction types
-- Performing regular code reviews, design meetings, & engineering retrospectives on MobileCoin protocol evolution
+- Building foreign function interfaces (ffis) between Rust and Swift/Java to enable mobile app support for new transaction types
+- Performing regular code reviews, design meetings, and engineering retrospectives on MobileCoin protocol evolution
 
 <br>
 
@@ -33,14 +33,14 @@ Responsibilities:
 
 **Description:**
 
-Consultancy focused on applying modern statistical analysis & machine learning methods to build & retain audiences within entertainment & consumer app software
+Consultancy focused on applying modern statistical analysis and machine learning methods to build and retain audiences within entertainment and consumer app software
 
 Responsibilities:
 - Making in-game recommendation engines using matrix factorization based methods
 - Using Apache Spark to perform ETL on unstructured data for consumption by ML models 
-- Building corpora & transformer NLP models for NER / bot dialog / intent analysis
+- Building corpora and transformer NLP models for NER / bot dialog / intent analysis
 - Putting ML model prediction code into client-side mobile apps to ease server load
-- Designing user interfaces to ML technology & testing them with end users
+- Designing user interfaces to ML technology and testing them with end users
 
 Secondary projects included developing strategies for cryptocurrency trading
 
@@ -54,14 +54,14 @@ Secondary projects included developing strategies for cryptocurrency trading
 
 **Description:**
 
-Loggly is a cloud log aggregation company. Loggly desired to apply machine learning to automate routing client communications to appropriate support personnell/resources to increase sales & customer retention
+Loggly is a cloud log aggregation company. Loggly desired to apply machine learning to automate routing client communications to appropriate support personnell/resources to increase sales and customer retention
 
 Responsibilities:
-- Performing longitudinal analysis & unsupervised learning methods on sales data to understand the factors behind successful sales conversions
+- Performing longitudinal analysis and unsupervised learning methods on sales data to understand the factors behind successful sales conversions
 - Analyzing client-volunteered datasets in order to generate profiles of usages patterns for different industry verticals
-- Creating inbound classification systems that classified inquiries into several buckets which indicated what approach & how much effort should be taken in converting the client
-- Creating classification systems which recommended support resources to Loggly clients & recommended courses of action to support personnell
-- Developing libraries for attaching loggly quickly to various programming languages, 3rd party software & libraries
+- Creating inbound classification systems that classified inquiries into several buckets which indicated what approach and how much effort should be taken in converting the client
+- Creating classification systems which recommended support resources to Loggly clients and recommended courses of action to support personnell
+- Developing libraries for attaching loggly quickly to various programming languages, 3rd party software and libraries
 
 <br>
 
@@ -73,10 +73,10 @@ Responsibilities:
 
 **Description:**
 
-Co-Founder of Bitfold, a game developer focused on mobile social games. Bitfold worked on both original game titles & the games of major clients such as Wargaming.net, Playdom (acquired by Disney), & Atari
+Co-Founder of Bitfold, a game developer focused on mobile social games. Bitfold worked on both original game titles and the games of major clients such as Wargaming.net, Playdom (acquired by Disney), and Atari
 
 Responsibilities:
-- Produced & guided technical direction for 6 games using varying tech stacks. Implemented a unified analytics backend for all game engines used to produce client games
+- Produced and guided technical direction for 6 games using varying tech stacks. Implemented a unified analytics backend for all game engines used to produce client games
 - Oversaw a mix of onshore/offshore teams for each project ranging between 4-15 people per project
 - Negotiated new game development details, managed client expectations, oversaw ongoing operation of games
 
@@ -90,7 +90,7 @@ Responsibilities:
 
 **Description:**
 
-Realmware Corporation was the maker of a C# based game engine called Visual3D that was used to make games & training simulations for private industry
+Realmware Corporation was the maker of a C# based game engine called Visual3D that was used to make games and training simulations for private industry
 
 Application developer assigned to the following projects over the course of employment
 
@@ -110,19 +110,19 @@ Application developer assigned to the following projects over the course of empl
 
 ### Competencies
 
-**Cryptographic Software:** Working knowledge of fundamental mathematics behind cryptography (group/field/information/number theory, etc.) Experience combining key exchanges, group theory fundamentals, signatures/proofs, hash functions & information hiding into cryptosystems
+**Cryptographic Software:** Working knowledge of fundamental mathematics behind cryptography (group/field/information/number theory, etc.) Experience combining key exchanges, group theory fundamentals, signatures/proofs, hash functions and information hiding into cryptosystems
 
-**Blockchain Development:** Direct experience in engineering distributed blockchains. Solid familiarity with consensus protocols like SCP, blockchain transaction proof math, chains of trust within blockchains, & communication between multiple node types within a network. Experienced in utilizing public & private blockchains within an application stack
+**Blockchain Development:** Direct experience in engineering distributed blockchains. Solid familiarity with consensus protocols like SCP, blockchain transaction proof math, chains of trust within blockchains, and communication between multiple node types within a network. Experienced in utilizing public and private blockchains within an application stack
 
-**Async & Parallel Computing:** Competent in using both parallelization & concurrency in software. Solid knowledge of how to instrument asynchronous futures/tasks/executors in multiple languages
+**Async and Parallel Computing:** Competent in using both parallelization and concurrency in software. Solid knowledge of how to instrument asynchronous futures/tasks/executors in multiple languages
 
-**Data Wrangling:** Finessing messy data into formats where meaningful analysis can be performed. Building data pipelines on both small scales using tools like Pandas/Numpy/Scikit Learn & larger scales using combinations of tools like Apache Spark & Amazon Kinesis. Continous data migration from production databases
+**Data Wrangling:** Finessing messy data into formats where meaningful analysis can be performed. Building data pipelines on both small scales using tools like Pandas/Numpy/Scikit Learn and larger scales using combinations of tools like Apache Spark and Amazon Kinesis. Continous data migration from production databases
 
-**Model Development & Deployment:** Knowledge of how to create & validate machine learning models from principled mathematical approaches. Experience deploying ML pipelines & developing human interfaces with machine learning products
+**Model Development and Deployment:** Knowledge of how to create and validate machine learning models from principled mathematical approaches. Experience deploying ML pipelines and developing human interfaces with machine learning products
 
-**Cloud Based Web Apps:** Experience running apps in AWS & holder of AWS certifications. Secondary experience building apps in Google Firebase, Cloudflare Workers & several niche cloud providers like [fly.io](https://fly.io)
+**Cloud Based Web Apps:** Experience running apps in AWS and holder of AWS certifications. Secondary experience building apps in Google Firebase, Cloudflare Workers and several niche cloud providers like [fly.io](https://fly.io)
 
-**Team Management & Priority Setting:** Building compassionate teams that do constant priority evaluation, supportive code review & Socratic post mortems of engineering decisions
+**Team Management and Priority Setting:** Building compassionate teams that do constant priority evaluation, supportive code review and Socratic post mortems of engineering decisions
 
 <br>
 
@@ -132,7 +132,7 @@ Application developer assigned to the following projects over the course of empl
 
 **Languages (Proficient):** Julia, Java, C#, Lua, R, Dart/Flutter, Solidity
 
-**RPC:** gRPC/protobuf, jsonRPC, REST, GraphQL, Linux OS file descriptors & pipes
+**RPC:** gRPC/protobuf, jsonRPC, REST, GraphQL, Linux OS file descriptors and pipes
 
 **Concurrency/Parallelism**: Tokio/Futures/Rayon (Rust), Asyncio/Aiohttp/Asyncpg/Subprocess/Ray (Python)
 
@@ -156,9 +156,9 @@ Application developer assigned to the following projects over the course of empl
 
 ### Mathematical Skills
 
-**Cryptography Fundamentals**: Solid understanding of cryptographic primitives such as key exchanges, key derivation protocols, commitment schemes & eliptic curve math. Can perform analyses of cryptographic code & designs. Not yet a cryptographer, but capable of writing & reviewing cryptographic code
+**Cryptography Fundamentals**: Solid understanding of cryptographic primitives such as key exchanges, key derivation protocols, commitment schemes and eliptic curve math. Can perform analyses of cryptographic code and designs. Not yet a cryptographer, but capable of writing and reviewing cryptographic code
 
-**Optimization:** Solid foundations in creating/analyzing learning & optimization methods that arise from results from linear algebra, tensor calculus, & information theory
+**Optimization:** Solid foundations in creating/analyzing learning and optimization methods that arise from results from linear algebra, tensor calculus, and information theory
 
 **Statistics/Longitudinal Analysis:** Able to apply statistical methods to temporal data to understand correlations that change across time
 
@@ -168,11 +168,11 @@ Application developer assigned to the following projects over the course of empl
 
 **Startup Operations:** Founder level experience in building tech companies
 
-**Recruiting & Team Building:** Hired/managed dozens of resources from development to sales
+**Recruiting and Team Building:** Hired/managed dozens of resources from development to sales
 
 **Offshore Team Management:** Many years of experience managing offshore development teams
 
-**Tech Sales & Business Development:** Experience in closing large software development & licensing deals
+**Tech Sales and Business Development:** Experience in closing large software development and licensing deals
 
 <br>
 
@@ -182,7 +182,6 @@ Application developer assigned to the following projects over the course of empl
 
 ### BS - Aerospace Engineering
 **2006 - University of Illinois at Urbana-Champaign**
-
 
 <br>
 

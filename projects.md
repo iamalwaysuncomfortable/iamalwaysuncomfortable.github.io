@@ -23,6 +23,9 @@ Mobilecoin is a cryptocurrency which encrypts all data about transactions sent o
 
 App partners requested the ability to send Mobilecoin to users who did not yet have Mobilecoin accounts. Designed/implemented a crypto scheme that allowed existing Mobilecoin account holders to send Mobilecoin gifts to people who did not yet have an account that could be redeemed after new account creation
 
+**Links To Work**
+[API Endpoints](https://mobilecoin.gitbook.io/full-service-api/api-endpoints/gift-code/claim_gift_code)
+
 <br>
 
 ### Forest Framework
