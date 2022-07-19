@@ -7,7 +7,7 @@ permalink: /resume/
 ## Work Experience
 
 -----
-### Senior Software Engineer / Mathematician
+### Senior Software Engineer
 **Company:** [MobileCoin](https://mobilecoin.com)
 
 **Dates:** Q4. 2021 - Current

@@ -4,7 +4,7 @@ title: "Projects"
 permalink: /projects/
 ---
 
-Below is a selection of projects 
+A mix of open and closed source software I've worked on throughout the years. Most projects have links you can follow in order to interact with the software directly
 
 ### Private Cryptocurrency Gifting
 
@@ -19,9 +19,9 @@ Below is a selection of projects
 
 **Description**
 
-Mobilecoin is a cryptocurrency which encrypts all data about transactions sent on its network.
+Expanding the number of useful transaction types within the Mobilecoin blockchain
 
-App partners requested the ability to send Mobilecoin to users who did not yet have Mobilecoin accounts. Designed/implemented a crypto scheme that allowed existing Mobilecoin account holders to send Mobilecoin gifts to people who did not yet have an account that could be redeemed after new account creation
+It was desired to create the ability to send Mobilecoin to mobile phone users who did not yet have Mobilecoin accounts. A solution was created allowing Mobilecoin account holders to send a transaction to a reserved subaddress and then send the data needed to create an account and redeem that transaction over gRPC to a counterparty without a mobilecoin account
 
 **Links To Work**
 
@@ -102,9 +102,11 @@ Both the OCR and NER Models are run directly within the app to maximize speed an
 
 **Description**
 
-Proof of concept of storing anonymous credentials on public blockchains
+Proof of concept for credential verification on Ethereum
 
-BlockUSign takes a SHA256 hash of an uploaded document and Ethereum account public keys and stores it on the Ethereum blockchain. Any other user can validate that document later using the document and original public Ethereum account keys. If a user is signed in with their Ethereum account, the app will scan the Ethereum chain for the associated documents and display them to the user. Future plans were to enable document verification by correlating encrypted data from official records with documents
+BlockUSign takes a hash of an uploaded document, signs it with an Ethereum account's private key and stores it on the Ethereum blockchain. Any other user can validate that document later using the document and public key of an Ethereum account. If a user is signed in with their Ethereum account, the app will scan the Ethereum chain for the associated documents and display them to the user
+
+This served as a proof of concept for a larger product designed to allow people to prove ownership of sensitive official credentials (such as financial statements or medical records) to counterparties in a private way
 
 **Links to Work**
 
@@ -125,9 +127,11 @@ BlockUSign takes a SHA256 hash of an uploaded document and Ethereum account publ
 
 **Description**
 
-1. Developed an ensemble classifier within salesforce that analyzed email and chatbot message content, company info and other related variables to classify the potential value of prospective clients and route them to support reps with specific recommendations
+Custom AI layer built into a Salesforce CRM for recommending actions to increase sales conversion and improve responses to support requests. The framework performs the following tasks:
 
-2. Developed plugins to enable log collection/shipping to Loggly for popular languages and software. The inbound classifier would automatically recommend specific integration code based on the text in client requests
+1. Classify the potential value of prospective clients and route them to support reps with specific sales recommendations
+2. Add customized responses to automated support email and chatbot replies
+3. Classify support requests from existing clients with severity levels and recommendations
 
 **Links to Work** 
 
@@ -152,7 +156,9 @@ BlockUSign takes a SHA256 hash of an uploaded document and Ethereum account publ
 
 **Description**
 
-Analytics service for Bitfold's social network games which measured interactions of players with the game's interface. Measurements were warehoused into an isolated Postgres analytics database using stored procedures. An EC2 based web-service was run regularly to calculate metrics and statiscal analyses on collected data to display on the dashboards
+Analytics service for multiplayer mobile games
+
+Measurements of player in-game actions and game state were collected by the UI and warehoused into a Postgres database. Metrics and simple predictive models were built into Postgres stored procedures and run against the data regularly. An EC2 based web-service was used to generate visualizations of the data onto a browser based dashboard for analysts on demand
 
 Several game publishers chose to integrate the dashboard into their games
 
