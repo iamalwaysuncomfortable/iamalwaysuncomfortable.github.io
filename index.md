@@ -13,7 +13,7 @@ _Senior Software Engineer Specializing in Cryptographic Systems and Machine Lear
 
 Ethically, I strive to work towards products that protect people's privacy and help society be more evenly distributed. As a veteran of the game industry, I have seen how data usage within the last decade has deeply invaded privacy in order to create digital addictions. This paradigm of exploiting users need not exist, products can be of great utility without compromising privacy
 
-I am focused on integrating concepts from cryptography and modeling mathematics that acheive products are both "smart" and private
+I am focused on integrating concepts from cryptography and modeling mathematics to build products are both "smart" and private
 
 ## Key Interests
 
