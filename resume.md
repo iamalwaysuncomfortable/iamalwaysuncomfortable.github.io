@@ -142,17 +142,15 @@ Application developer assigned to the following projects over the course of empl
 
 ### Tool Stack
 
-**Languages (Mastery):** Python, Rust, Javascript
+**Languages (Mastery):** Rust, Python
 
-**Languages (Proficient):** Julia, Java, C#, Lua, R, Dart/Flutter, Solidity
-
-**RPC:** gRPC/protobuf, jsonRPC, REST, GraphQL, Linux OS file descriptors and pipes
+**Languages (Proficient):** C++, C#, Julia, Javascript, Java, Lua, Dart/Flutter
 
 **Concurrency/Parallelism**: Tokio/Futures/Rayon (Rust), Asyncio/Aiohttp/Asyncpg/Subprocess/Ray (Python)
 
-**Frontend:** React Native/JS, Flutter, Jekyll, Unity3D, Unreal, Corona
+**ML/AI Frameworks:** Tensorflow, PyTorch, Spark, Huggingface Transformers, Julia
 
-**ML/AI Frameworks:** Scikit Learn, Tensorflow, Spark, PyTorch, Keras, spaCy, Huggingface Transformers, Amazon SageMaker, Google AI Platform, Julia
+**Cryptograph Frameworks:** Arkworks, Dalek Cryptograph Stack, Leo/Aleo Cryptography stack
 
 **Testing/Deployment:** Mocha, CircleCI, PyTest, UnitTest, Enzyme, Jest, Github Actions
 
@@ -162,21 +160,17 @@ Application developer assigned to the following projects over the course of empl
 
 **Cloud Infrastructure:** Amazon Stack (EC2/Lambda/RDS/SQS/ECS/IAM/S3/etc.), Google Stack (Compute/Firebase/Cloud Functions), Cloudflare, Fly.io
 
-**Blockchain:** Rust, Eliptic Curve Cryptography, Bulletproofs/Range Proofs/Merkle Proofs, Hyperledger Sawtooth/Indy, Ethereum Ecosystem (Solidity/MetaMask/Truffle/Etc.), Stellar Consensus Protocol
-
-**Other Tools:** Wireshark, Pupeteer, BeautifulSoup, Scrapy, git, JIRA
+**Blockchain:** Rust, Eliptic Curve Cryptography, Bulletproofs/Range Proofs/Merkle Proofs, Ethereum Ecosystem (Solidity/MetaMask/Truffle/Etc.), Stellar & Bullshark Consensus Protocols
 
 <br>
 
 ### Mathematical Skills
 
-**Cryptography Fundamentals**: Solid understanding of cryptographic primitives such as key exchanges, key derivation protocols, commitment schemes and eliptic curve math. Can perform analyses of cryptographic code and designs. Not yet a cryptographer, but capable of writing and reviewing cryptographic code
+**Cryptographic Mathematics**: Fluency with ZkSnarks, elliptic curve cryptography and foundational subjects such as group theory, number theory, and information theory. Able to maintain & extend proof systems.
 
-**Optimization:** Solid foundations in creating/analyzing learning and optimization methods that arise from results from linear algebra, tensor calculus, and information theory
+**ML Modeling Mathematics:** Linear Algebra & Tensor Calculus whiz. Fluency with applied mathematical constructs used in most common ML models.
 
-**Statistics/Longitudinal Analysis:** Able to apply statistical methods to temporal data to understand correlations that change across time
-
-**Other Mathematical Competencies:** Category theory, graph theory, decision theory, measure theory, number theory
+**Statistics:** Able to apply statistical methods to temporal data to understand correlations that change across time
 
 ### Soft Skills
 
@@ -184,9 +178,7 @@ Application developer assigned to the following projects over the course of empl
 
 **Recruiting and Team Building:** Hired/managed dozens of resources from development to sales
 
-**Offshore Team Management:** Many years of experience managing offshore development teams
-
-**Tech Sales and Business Development:** Experience in closing large software development and licensing deals
+**Team Management:** Many years of experience guiding software development teams towards difficult goals
 
 <br>
 

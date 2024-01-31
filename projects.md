@@ -8,7 +8,7 @@ A mix of open and closed source software I've worked on throughout the years. Ma
 
 ### Aleo SDK
 
-#### Rust, js/wasm & python SDKs for Aleo Blockchain
+#### Rust, JS/WASM & Python SDKs for Aleo Protocol
 ----
 
 ![aleo]({{site.baseurl}}/images/aleo.png)
