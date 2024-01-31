@@ -4,7 +4,28 @@ title: "Projects"
 permalink: /projects/
 ---
 
-A mix of open and closed source software I've worked on throughout the years. Most projects have links you can follow in order to interact with the software directly
+A mix of open and closed source software I've worked on throughout the years. Many projects have links you can follow in order to interact with the software directly
+
+### Aleo SDK
+
+#### Rust, js/wasm & python SDKs for Aleo Blockchain
+----
+
+![aleo]({{site.baseurl}}/images/aleo.png)
+
+**Employer:** Aleo
+
+**Year:** 2023
+
+**Description**
+
+Creation of Rust, js/wasm & python SDKs to provide accessibility to new protocol features for developers.
+
+**Links To Work**
+
+* [Aleo SDK](https://github.com/AleoHQ/sdk)
+* [Aleo Python SDK](https://github.com/AleoHQ/python-sdk)
+* [SnarkVM](https://github.com/AleoHQ/SnarkVM)
 
 ### Private Cryptocurrency Gifting
 
@@ -13,7 +34,7 @@ A mix of open and closed source software I've worked on throughout the years. Mo
 
 ![mobilecoin]({{site.baseurl}}/images/rustcode.png)
 
-**Client:** Mobilecoin Inc.
+**Employer:** Mobilecoin Inc.
 
 **Years:** 2021-2022
 

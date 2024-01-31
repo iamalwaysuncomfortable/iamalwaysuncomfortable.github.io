@@ -7,10 +7,24 @@ permalink: /resume/
 ## Work Experience
 
 -----
+### Protocol Engineer
+**Company:** [Aleo](https://aleo.org)
+
+**Dates:** Q1. 2023 - Current
+
+**Description:**
+Aleo provides a platform for building private applications using zero knowledge proofs. 
+
+Responsibilities:
+- Protocol engineering for Varuna proof system and Bullshark consensus protocol
+- Creating of Rust, js/wasm & python SDKs to provide accessibility to the Aleo protocol
+
+<br>
+
 ### Senior Software Engineer
 **Company:** [MobileCoin](https://mobilecoin.com)
 
-**Dates:** Q4. 2021 - Current
+**Dates:** Q4. 2021 - Q4 2022
 
 **Description:**
  MobileCoin is a private cryptocurrency that the encrypts all data on senders, receivers, and amounts within transactions. It uses elliptic curve cryptography within Intel SGX enclaves to encrypt transactions and then validates them in encrypted form using zero knowledge proofs
